@@ -5,4 +5,4 @@ COPY env/server.xml conf/server.xml
 
 COPY target/courses-ms.war webapps/courses-ms.war
 
-EXPOSE 3000
+EXPOSE 3000 
